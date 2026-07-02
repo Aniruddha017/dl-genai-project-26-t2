@@ -1,2 +1,5 @@
 /.myenv
 /dataset
+__pycache__/
+*.pth
+submission.csv
