@@ -3,3 +3,5 @@
 __pycache__/
 *.pth
 submission.csv
+/models/
+*.log
